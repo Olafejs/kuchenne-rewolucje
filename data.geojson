@@ -4139,6 +4139,19 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 18.6066858, 53.0098104 ]
+    }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Modry Kociołek",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 23,
+      "episode" : 1,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S23E01,216357",
+      "homepage" : "http://www.modrykociolek.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 50.394439, 18.9547953 ]
     }
   } ]
 }
